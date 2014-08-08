@@ -1,0 +1,15 @@
+# colorblind things
+
+railcraft.gates.trigger.aspect.green=Aspect: Line free
+railcraft.gates.trigger.aspect.off=Aspect Off
+railcraft.gates.trigger.aspect.red.blink=Aspect: Not paired
+railcraft.gates.trigger.aspect.red=Aspect: Line blocked
+railcraft.gates.trigger.aspect.yellow.blink=Aspect: Pairing
+railcraft.gates.trigger.aspect.yellow=Aspect: Line in use
+
+railcraft.gui.aspect.green.name=Line free
+railcraft.gui.aspect.off.name=Off
+railcraft.gui.aspect.blink.red.name=Not paired
+railcraft.gui.aspect.red.name=Blocked
+railcraft.gui.aspect.blink.yellow.name=Pairing
+railcraft.gui.aspect.yellow.name=In use

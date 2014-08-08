@@ -1,0 +1,37 @@
+#Bevonian lang file
+railcraft.gui.surveyor.wrong=Not a valid Signal
+
+tile.railcraft.signal.block.signal.dual.name=Dual-Head Signal
+tile.railcraft.signal.block.signal.name=Signal
+
+tile.railcraft.track.switch.tip=I am a Switch track!\n Please use me <3
+tile.railcraft.track.reinforced.switch.tip=I am a Switch track!\n I am strong!
+tile.railcraft.track.slow.switch.tip=I am a Switch track!\n I am made of wood :D
+tile.railcraft.track.speed.switch.tip=I am a Switch track!\n I am stylish!
+tile.railcraft.track.wye.tip=Hi, I'm a Wye!
+tile.railcraft.track.slow.wye.tip=Hi, I'm a Wye!\n I'm sure you have never made anything as expensive as me before :D
+tile.railcraft.track.reinforced.wye.tip=Hi, I'm a Wye!
+tile.railcraft.track.speed.wye.tip=Hi, I'm a Wye!
+
+tile.railcraft.track.slow.tip=Made of wood\n Pretty fancy
+tile.railcraft.track.slow.boost.tip=Somewhat expensive
+tile.railcraft.track.slow.junction.tip=Pretty expensive
+
+tile.railcraft.track.reinforced.boost.tip=It's pretty cool
+tile.railcraft.track.locking.tip=Stops and holds carts\n§o§9- Hit with Crowbar to change mode -\n§o§c- Apply Redstone to enable -\n§o§3Give that Track a Whack!
+
+# colorblind things
+
+railcraft.gates.trigger.aspect.green=Aspect: Line free
+railcraft.gates.trigger.aspect.off=Aspect Off
+railcraft.gates.trigger.aspect.red.blink=Aspect: Not paired
+railcraft.gates.trigger.aspect.red=Aspect: Line blocked
+railcraft.gates.trigger.aspect.yellow.blink=Aspect: Pairing
+railcraft.gates.trigger.aspect.yellow=Aspect: Line in use
+
+railcraft.gui.aspect.green.name=Line free
+railcraft.gui.aspect.off.name=Off
+railcraft.gui.aspect.blink.red.name=Not paired
+railcraft.gui.aspect.red.name=Blocked
+railcraft.gui.aspect.blink.yellow.name=Pairing
+railcraft.gui.aspect.yellow.name=In use
