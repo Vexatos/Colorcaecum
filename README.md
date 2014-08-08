@@ -1,7 +1,7 @@
-NoRain
+Colorcaecum
 ========
 
-This is a Repository for a Resourcepack called Colorcaecum. All it does is adding textures for colorblind people to Railcraft.
+This is a Repository for a Resourcepack called Colorcaecum. All it does is adding better textures for colorblind people to Railcraft.
 
 It is entirely made for fun, and nothing else.
 
