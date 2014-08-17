@@ -1,0 +1,18 @@
+{
+   "pack":{
+      "pack_format":1,
+      "description": "Adds textures for colorblind people - Unity Edition"
+   },
+   "language":{
+      "en_BV":{
+         "name":"Bevonian English",
+         "region":"Falafville",
+         "bidirectional":false
+      },
+      "en_CB":{
+         "name":"English",
+         "region":"Colorblind Mode",
+         "bidirectional":false
+      }
+   }
+}
