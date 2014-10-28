@@ -1,7 +1,9 @@
 
-This is a Repository for a Resourcepack called Colorcaecum. All it does is adding better textures for colorblind people.
+This is a Resourcepack called Colorcaecum. All it does is adding better textures for colorblind people to a few mods.
+It also adds a new language called English (Colorblind Mode) which is recommended to use with this pack as it improves the quality of playing with the changed textures.
+For further information, read this: https://github.com/Vexatos/Colorcaecum/blob/master/README.md
 
-It is entirely made for fun, and nothing else.
+This pack is made for fun, and nothing else.
 
 ======
 License:
