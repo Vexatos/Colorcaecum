@@ -24,4 +24,4 @@ This pack is made for fun, and nothing else.
 
 The Colorcaecum Resource Pack is licensed under Calclavia's Educational Public License (https://github.com/Vexatos/Colorcaecum/blob/master/LICENSE.md). By using or interacting with this software in any way shape or form, you agree to the license of this software.
 
-The Colorcaecum Resource Pack's download (Unity Edition) contains textures from CyanideX' Unity 32x32 pack, which you can find at http://minecraft.curseforge.com/texture-packs/222097-unity
+The Colorcaecum Resource Pack's download (Unity Edition) contains textures from CyanideX's Unity 32x32 pack, which you can find at http://minecraft.curseforge.com/texture-packs/222097-unity and https://github.com/CyanideX/Unity
