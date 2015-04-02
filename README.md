@@ -12,6 +12,11 @@ Currently supported mods are:
 ###Unity
 This Resource Pack comes in two versions to download, the Vanilla and Unity Edition. While the Vanilla Edition is probably the one you should choose, the Unity Edition is supposed to provide support for [CyanideX' Unity 32x32 pack](http://minecraft.curseforge.com/texture-packs/222097-unity), so choose this version if you are using the Unity Resource Pack.
 
+###Forecaster-Addon
+The third file to download is an addon to either of the two Resource Pack versions, adding alternative textures for Railcraft Signals. If you like to have those textures a little different but still fine for colorblind people to use, try this.
+
+This addon's textures are made by Forecaster. To use the addon, simply put it onto your Resource Pack stack, above the Colorcaecum pack. It does require one of the Colorcaecum versions to be present.
+
 ###Downloads
 
 The downloads and change log for this pack can be found [here](https://github.com/Vexatos/Colorcaecum/releases).
